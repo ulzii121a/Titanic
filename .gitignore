@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea/
+.idea/vcs.xml
+output/
+.idea/vcs.xml
